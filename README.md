@@ -1,1 +1,1 @@
-# weather_project
+I woudln't say this is my first project because of the tools I used but I kind of wanted to see if I can familiarize myself with the terms and coding languages and how each element and conditionals also the if else statement (which i didnt use) works. I only been actually coding for about a 6 months (also have been thinking about coding for years). I created a weather app; simple weather app. The background changes with the weather conditions. That is the only feature I put on app. I still have so much to learn ! # weather_project
