@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Check the Temperature</title>
+  </head>
+  <body>
+    <video playsinline autoplay muted loop id="weatherVideo">
+      <source src="/videos/cloudy.mp4" type="video/mp4">
+    </video>
+    <header>
+      <h1>Check Weather Conditions</h1>
+      <div class="weather-content">
+        <input type="text" id="city" placeholder="Enter city">
+        <button id="getWeather">Get Weather</button>
+      </div>
+    </header>
+    <div id="weatherInfo"></div>
+    <script src="javascript.js"></script>
+  </body>
+</html>
